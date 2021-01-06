@@ -3,8 +3,6 @@
 PyMC User's Guide
 =================
 
-**CAUTION**: This is the **old** PyMC project. Please **use PyMC3 instead**: `<https://docs.pymc.io/>`_
-
 Contents:
 
 .. toctree::
