@@ -1,10 +1,13 @@
 language: python
 sudo: false
+arch:
+    - amd64
+    - arm64
 service:
     - xvfb
 matrix:
   include:
-    - python: 3.8
+    - python: 3.4
     #- python: 3.4
 addons:
   apt:
